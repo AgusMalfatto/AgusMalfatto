@@ -1,17 +1,20 @@
 ## Hi, I’m Agustín Malfatto <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Backend+Developer;I'm+also+studying+AI+and+Robotic" />
+  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=I'm+a+Backend+Developer;I'm+also+studying+AI+and+Robotic" />
 </p>
 
+![Black Minimalist Corporate Business Personal Profile LinkedIn Banner (1)](https://github.com/user-attachments/assets/7ecbea5a-d71e-470e-b099-2c336b7bf41e)
+
 <p align ="center">
+  <!--
   <a  href="https://ifeanyi-nneji.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="example"/>
-  </a>
-  <a href="mailto:ifeanyinneji777@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+  </a> -->
+  <a href="mailto:agus.malfatto20@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
   </a>
-   <a href="https://www.linkedin.com/in/ifeanyi-nneji-719989235" target="_blank">
+   <a href="https://www.linkedin.com/in/agust%C3%ADn-malfatto/?locale=en_US" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>    
 </p>
@@ -23,9 +26,8 @@
 </ul>
 
 ## Tech Stack 
-<p justify-content="center" display![Malfatto_Agustin](https://github.com/user-attachments/assets/c27c8286-37cd-466c-9305-43d6c2853746)
-![Malfatto_Agustin](https://github.com/user-attachments/assets/7931966b-0c07-488a-a8ef-c1d4c5513f19)
-="flex" align-items="center">
+#### Programming Lenguages
+<p justify-content="center" display="flex" align-items="center">
   <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </a>
@@ -50,6 +52,14 @@
     <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
   </a>
 
+  <a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank">
+    <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  </a>
+  </p>
+
+#### Other Technologies
+  
+<p justify-content="center" display="flex" align-items="center">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
