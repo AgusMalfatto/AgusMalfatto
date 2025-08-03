@@ -48,8 +48,8 @@
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
   </a>
 
-   <a href="https://plotly.com/" target="_blank">
-    <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
+   <a href="https://matplotlib.org/" target="_blank">
+    <img alt="MatPlotLib" src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white">
   </a>
 
   <a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank">
